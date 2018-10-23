@@ -1,0 +1,5 @@
+spring boot testing: http://www.springboottutorial.com/unit-testing-for-spring-boot-rest-services
+
+JsonSchemaToPojoGeneration maven plugin: https://www.ai1tutorial.com/jsonschematopojogeneration/
+
+jackson: https://www.baeldung.com/jackson-annotations
